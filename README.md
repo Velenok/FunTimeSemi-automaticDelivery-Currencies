@@ -11,7 +11,10 @@ Python bot for semi-automatic currency issuance on the FunTime server
 Заходим в тг , ищем @BotFather 
 Создаем бота <img width="515" height="55" alt="image" src="https://github.com/user-attachments/assets/efb072af-24e1-4b26-a8fe-51b42e4703e5" />
 
+
 Вводим любое имя 
+<img width="520" height="447" alt="image" src="https://github.com/user-attachments/assets/8832a6c2-54e4-4af1-9b3a-42485426e7a8" />
+
 
 Видим такое
 <img width="493" height="195" alt="image" src="https://github.com/user-attachments/assets/2ec8389f-36bf-4f79-8b31-68da7f1b31f2" />
