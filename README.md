@@ -29,6 +29,16 @@ Python bot for semi-automatic currency issuance on the FunTime server
 
 <img width="636" height="430" alt="image" src="https://github.com/user-attachments/assets/4f3db865-9e59-4a08-8d9c-039747ebd7f8" />
 
+
+После запуска бота необходимо ввести /auth
+
+
+
+<img width="921" height="245" alt="image" src="https://github.com/user-attachments/assets/66bc3f8c-7c70-4cca-8d6a-75d3883540fc" />
+
+
+
+
 Как работает бот :
 В тг боте вводим команду /pay НИК СУММА (поддерживаются KK (АНГЛ БУКВАМИ) 
 Бот заходит на нужную анку , выдает валюту и делает скриншот успешной выдачи
