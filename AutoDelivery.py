@@ -1,4 +1,4 @@
-# --- START OF MODIFIED FILE V9 (WITH AUTHORIZATION) ---
+
 
 import ssl
 import customtkinter as ctk
@@ -342,4 +342,5 @@ if __name__ == "__main__":
     if app.token:
         bot_thread = threading.Thread(target=run_telegram_bot, args=(app,), daemon=True)
         bot_thread.start()
+
     app.mainloop()
