@@ -4,7 +4,11 @@ Python bot for semi-automatic currency issuance on the FunTime server
 Тг бот для автоматической выдачи валюты на сервер FunTime
 
 Гайд:
-Открывам прогу ,видим менюшку :
+Скачиваем ZIP файлом ,открываем батник ( он устанавливает зависимости)
+
+Открывам прогу (AutoDelivery.py)  ,видим менюшку :
+
+
 <img width="1302" height="932" alt="image" src="https://github.com/user-attachments/assets/d12c2410-c05b-4ef8-8882-698bed6a30e0" />
 
 
