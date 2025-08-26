@@ -3,6 +3,8 @@ Python bot for semi-automatic currency issuance on the FunTime server
 
 Тг бот для автоматической выдачи валюты на сервер FunTime
 
+Сообщайте о багах / если не понимаете как установить сюда --> https://discord.gg/mz4RffBBaX
+
 Гайд:
 Скачиваем ZIP файлом ,открываем батник ( он устанавливает зависимости)
 
@@ -57,6 +59,6 @@ Python bot for semi-automatic currency issuance on the FunTime server
 Для того что бы не кикало предусмотренна система АнтиАфк (По нажатию Ф6) То есть включаем АнтиАфк и можно уходить от ПК и выдавать через телефон.
 
 
-Сообщайте о багах / если не понимаете как установить сюда --> https://discord.gg/mz4RffBBaX
+
 
 # БОТ ИСПОЛЬЗУЕТСЯ В СВЯЗКЕ С FUNPAY CARDINAL (Для получения ника и количества КК)
